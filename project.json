@@ -1,0 +1,12 @@
+{
+  "name": "Dunn for Cats",
+  "description": "Website for Mr. Dunn's affection towards cats",
+  "banner": "dunn4cats.png",
+  "language": "HTML/CSS",
+  "status": "Completed",
+  "featured": true,
+  "year": 2026,
+  "authors": [
+    "Mr. Dunn"
+  ]
+}
